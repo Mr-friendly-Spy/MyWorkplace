@@ -13,7 +13,7 @@ setuptools.setup(
     description="Простой калькулятор на Python",
     long_description=long_description,           # Длинное описание из README.md
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/calculator-pkg",  # Ссылка на репозиторий или сайт
+    url="https://github.com/Mr-friendly-Spy/MyWorkplace/tree/main/calculator_project",  # Ссылка на репозиторий или сайт
     packages=setuptools.find_packages(),         # Поиск всех пакетов внутри проекта
     classifiers=[                                # Классификаторы
         "Programming Language :: Python :: 3",
